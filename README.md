@@ -1,4 +1,4 @@
-# Saintander_value_pred
+# Santander_value_pred
 # Competition from Kaggle - https://www.kaggle.com/competitions/santander-value-prediction-challenge/data
 # Description
 According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception.
